@@ -1,0 +1,2 @@
+#Intérêt :
+Un système est qualifié d’ “automatisé” si une machine remplit ses fonctions. On proposera ici une classification des systèmes automatisés, et les notions d’asservissement ainsi que de performances seront abordées.
